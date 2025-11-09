@@ -97,9 +97,9 @@ sivan temple.html
 
 
 ## OUTPUT
-NearMe/Screenshot 2025-11-09 183459.png
-NearMe/Screenshot 2025-11-09 183639.png
-NearMe/Screenshot 2025-11-09 183554.png
+c:\Users\admin\Pictures\parasur.html.png
+c:\Users\admin\Pictures\sivan temple.html.png
+c:\Users\admin\Pictures\perumal temple.html.png
 
 
 
