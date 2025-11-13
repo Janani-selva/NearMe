@@ -97,9 +97,9 @@ sivan temple.html
 
 
 ## OUTPUT
-c:\Users\admin\Pictures\parasur.html.png
-c:\Users\admin\Pictures\sivan temple.html.png
-c:\Users\admin\Pictures\perumal temple.html.png
+c:\Users\admin\Pictures\Screenshots\Screenshot 2025-11-09 183459.png
+c:\Users\admin\Pictures\Screenshots\Screenshot 2025-11-09 183607.png
+c:\Users\admin\Pictures\Screenshots\Screenshot 2025-11-09 183639.png
 
 
 
