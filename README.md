@@ -93,15 +93,14 @@ sivan temple.html
 </body>
 </html>
 
-
-
-
+```
+cler
 ## OUTPUT
-c:\Users\admin\Pictures\Screenshots\Screenshot 2025-11-09 183459.png
-c:\Users\admin\Pictures\Screenshots\screenshot tem.png
-c:\Users\admin\Pictures\Screenshots\Screenshot 2025-11-09 183639.png
+![alt text](<Screenshot 2025-11-09 183459-1.png>)
 
+![alt text](<Screenshot 2025-11-09 183554-1.png>)
 
+![alt text](<Screenshot 2025-11-09 183639-1.png>)
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
