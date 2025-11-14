@@ -98,12 +98,8 @@ sivan temple.html
 
 ## OUTPUT
 c:\Users\admin\Pictures\Screenshots\Screenshot 2025-11-09 183459.png
-c:\Users\admin\Pictures\Screenshots\Screenshot 2025-11-09 183607.png
+c:\Users\admin\Pictures\Screenshots\screenshot tem.png
 c:\Users\admin\Pictures\Screenshots\Screenshot 2025-11-09 183639.png
-
-
-
-
 
 
 
